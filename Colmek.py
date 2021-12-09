@@ -118,4 +118,4 @@ def exit_gracefully(signum, frame):
 
 if __name__ == '__main__':
     original_sigint = signal.getsignal(signal.SIGINT)
-    signal.signal(signal.SIGINT, 
+    signal.signal(signal.SIGINT, exit_gracefully)

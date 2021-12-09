@@ -11,7 +11,7 @@ os.system("clear")
 os.system("figlet DDOS ATTACK -f slant")
 os.system("clear")
 print(" Ramake By : Felix Xyz")
-print("███████╗███████╗██╗░░░░░██╗██╗░░██╗
+print("███████╗███████╗██╗░░░░░██╗██╗░░██╗ ")
 pritn("██╔════╝██╔════╝██║░░░░░██║╚██╗██╔╝ ")
 print("█████╗░░█████╗░░██║░░░░░██║░╚███╔╝░ ")
 print("██╔══╝░░██╔══╝░░██║░░░░░██║░██╔██╗░ ")
